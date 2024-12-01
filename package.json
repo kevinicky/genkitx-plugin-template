@@ -1,6 +1,6 @@
 {
   "name": "genkitx-test-template-plugin",
-  "version": "0.0.1-alpha.2",
+  "version": "0.0.1-alpha.3",
   "description": "Genkit AI Plugin template",
   "main": "lib/index.js",
   "scripts": {
